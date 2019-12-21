@@ -1,6 +1,7 @@
 ---
 title: Connect to BardBBS!
 permalink: /connect/
+layout: page
 ---
 
 
