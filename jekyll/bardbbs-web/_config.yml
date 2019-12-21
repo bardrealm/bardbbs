@@ -22,7 +22,7 @@ title: BardBBS
 email: cody@codywilson.co
 description: >- # this means to ignore newlines until "baseurl:"
   Learn how to connect to BardBBS and play some fun door games!
-baseurl: "/bardbbs-web" # the subpath of your site, e.g. /blog
+baseurl: "/bardbbs" # the subpath of your site, e.g. /blog
 url: "https://belthesar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: belthesar
 github_username:  belthesar
