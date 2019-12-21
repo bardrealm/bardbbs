@@ -1,3 +1,10 @@
+---
+layout: page
+title: Web Client
+permalink: /webclient/
+---
+
+
 # Web Client
 
 ## Press the Connect button below to connect to BardBBS!

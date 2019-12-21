@@ -1,3 +1,9 @@
+---
+layout: page
+title: Welcome to BardBBS!
+---
+
+
 # Welcome to BardBBS!
 ## Prepare thine ears for the sound of modems SCREEEEing in the distance...
 
