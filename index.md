@@ -1,6 +1,6 @@
 ---
 title: Welcome to BardBBS!
-layout: page
+# layout: page
 ---
 
 
