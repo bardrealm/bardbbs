@@ -16,8 +16,9 @@ Extract the contents of the Netrunner.zip file to a convenient place on your com
 
 Netrunner is for Windows only - if you're on Mac or Linux and are interested it connecting, you can use the Web Terminal, or let belthesar know in Discord and he'll work on a desktop client solution for you.
 * * * 
-## Web Terminal (coming soon!)
-_Soon, you'll be able to connect to BardBBS with just your web browser! Stay tuned!_
+## Web Terminal
+You don't even need a Telnet app to try out some door games. We have a web client you can try out right in your browser!
+[Click Here](webclient.html) to use the web client to login! 
 * * * 
 ## Mobile 
 

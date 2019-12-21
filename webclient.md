@@ -1,3 +1,7 @@
+# Web Client
+
+## Press the Connect button below to connect to BardBBS!
+
 <div id="fTelnetContainer_bardbbs_belthesar_com_25080" class="fTelnetContainer"></div>
 <script>document.write('<script src="//embed-v2.ftelnet.ca/js/ftelnet-loader.norip.noxfer.js?v=' + (new Date()).getTime() + '"><\/script>');</script>
 <script>
