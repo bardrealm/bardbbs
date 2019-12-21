@@ -16,7 +16,7 @@ See below for tools you can use to connect!
 * * * 
 
 ## OG Terminal Mode
-There's a really cool Telnet app called Netrunner that you can use to connect to BardBBS. You can download it [HERE!](files/netrunner.zip)
+There's a really cool Telnet app called Netrunner that you can use to connect to BardBBS. This is hands down the best way to connect to BardBBS. You can download it [HERE!](files/netrunner.zip)
 
 Extract the contents of the Netrunner.zip file to a convenient place on your computer, open the folder, and double-click "Connect_to_BardBBS.bat".  
 
@@ -24,7 +24,7 @@ Netrunner is for Windows only - if you're on Mac or Linux and are interested it 
 * * * 
 ## Web Terminal
 You don't even need a Telnet app to try out some door games. We have a web client you can try out right in your browser!
-[Click Here](/bardbbs-web/webclient) to use the web client to login! 
+[Click Here](/bardbbs/webclient) to use the web client to login! 
 * * * 
 ## Mobile 
 
