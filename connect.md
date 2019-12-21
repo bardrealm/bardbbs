@@ -24,7 +24,7 @@ Netrunner is for Windows only - if you're on Mac or Linux and are interested it 
 * * * 
 ## Web Terminal
 You don't even need a Telnet app to try out some door games. We have a web client you can try out right in your browser!
-[Click Here](webclient) to use the web client to login! 
+[Click Here](/bardbbs-web/webclient) to use the web client to login! 
 * * * 
 ## Mobile 
 
