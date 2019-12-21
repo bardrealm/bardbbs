@@ -1,7 +1,7 @@
 ---
 title: Web Client
 permalink: /webclient/
-# layout: page
+layout: page
 ---
 
 
